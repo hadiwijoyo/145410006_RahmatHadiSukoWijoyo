@@ -1,0 +1,12 @@
+{
+  "name" : "Website Edukasi COVID-19 Yogyakarta",
+  "version" : "1.0",
+  "scripts" : {
+    "start" : "node server.js"
+  },
+  "dependencies" : {
+    "express" : "4.17.1"
+  },
+  "author" : "Rahmat Hadi Suko Wijoyo",
+  "license" : "HW12"
+}
